@@ -13,7 +13,7 @@ git clone https://github.com/jeff9497/WhatsApify.git
 # 2. Navigate to the project directory:
 
 cd WhatsApify
-# 3. Install dependencies using pip:
+# 3. Install dependencies using npm:
 
 npm install
 
